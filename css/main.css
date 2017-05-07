@@ -1,0 +1,37 @@
+body {
+padding-top: 50px;
+}
+
+.header {
+	padding: 150px 0 120px 0; 				
+	background: url(../images/bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-size: 50px;
+	text-align: center;
+	color: white;
+}
+
+.container {
+	padding: 20px;
+	background-size: cover;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+
+.contact {
+	font-size: 20px;
+	text-align: center
+	color: blue;
+}
+
+.card {
+	background-color: #05b4f0;
+	padding: 15px 25px 20px;
+	border-radius: 10px;
+	color: white;	
+
+}
